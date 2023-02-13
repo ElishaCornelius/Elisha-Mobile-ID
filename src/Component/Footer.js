@@ -4,8 +4,8 @@ import Github from "./github-logo.png"
 function Footer(){
     return(
         <div className="footer">
-            <a href=""><img src={Twitter} alt="" className="twitter-icon"/></a>
-            <a href=""><img src={Github} alt="" className="twitter-icon"/></a>
+            <a href="twitter.com/@changeastory"><img src={Twitter} alt="" className="twitter-icon"/></a>
+            <a href="https://github.com/ElishaCornelius"><img src={Github} alt="" className="twitter-icon"/></a>
         </div>
     )
 }

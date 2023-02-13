@@ -21,7 +21,7 @@ function Info(){
                         </p>
                     </div>
                 </a>
-                <a href="">
+                <a href="https://www.linkedin.com/in/elisha-cornelius-081b83230">
                     <div className="l">
                         <p className="linkedin">
                             <img src={Linkedin} alt="" className="linkedin-icon"/>
