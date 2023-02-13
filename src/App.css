@@ -2,7 +2,7 @@ body{
   background-color: rgb(6, 6, 22);
 }
 .App{
-  height: 727px;
+  height: 790px;
   width: 300px;
   background-color: white;
   margin: 40px auto;
@@ -84,10 +84,9 @@ body{
 #interests{
   color: white;
 }
-.text2{
+#skill{
   color: rgb(156, 154, 154);
-  font-size: 10px;
-  margin-top: 3px;
+  padding-left: 20px;
 }
 
 #interests{
